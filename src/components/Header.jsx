@@ -8,7 +8,7 @@ const Header = () => {
             shadow-lg fixed top-0 left-0 right-0'
         >
             <a href="#">
-                <span className="text-lg font-medium">Dapp ChainFund</span>
+                <span className="text-lg font-medium">Dapp ChainFund Demo</span>
                 <div className="flex space-x-1">
                     <TbAwardFilled className="text-yellow-500 text-xl" />
                     <TbAwardFilled className="text-yellow-500 text-xl" />
