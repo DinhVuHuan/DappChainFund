@@ -1,7 +1,7 @@
 module.exports = {
   content: ['./src/**/*.{js,jsx,ts,tsx}'],
   mode: 'jit',
-  darkMode: false, // or 'media' or 'class'
+  darkMode: 'class', //dark mode theo class
   theme: {
     fontFamily: {
       display: ['Open Sans', 'sans-serif'],
